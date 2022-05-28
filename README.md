@@ -7,5 +7,5 @@
 - 🌼 I will learn Java or C# ,cloud technologies and mobile development in the future.
 - 👯 I’m looking to collaborate on learning and growing together.
 - 💬 Ask me ... aungmyo2123@gmail.com
-- ⚡ Fun fact: drinking with friends, travling, single 😂
+- ⚡ Fun fact: drinking with friends, traveling, single 😂
 
