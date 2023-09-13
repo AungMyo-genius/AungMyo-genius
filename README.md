@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 
-
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning php, mysql, react, vue, laravel, nodejs.
-- 🌼 I will learn Java or C# ,cloud technologies and mobile development in the future.
-- 👯 I’m looking to collaborate on learning and growing together.
+- 🌱 I’m currently learning to be more efficient C# developer.
+- 👯 I’m working on one of the best software house in Myanmar.
+- 🔭 I’m studying to be best fullstack developer.
 - 💬 Ask me ... aungmyo2123@gmail.com, +959967922680
-- ⚡ Fun fact: drinking with friends, traveling 😂
+- ⚡ Personal Hobbies : traveling, talking about universe ! 
 
